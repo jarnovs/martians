@@ -5,7 +5,6 @@ weight = [314, 218, 181]
 
 # Function for cheking weight
 def check_weight():
-    global weight
     global location
 
     if sum(weight) == 713:
